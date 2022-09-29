@@ -157,11 +157,11 @@ background-color:turquoise;
 
 }
 .ser-card{
-    width: 25rem;
+    width: 24rem;
     display: block;
     float: left;
-    margin-left:4.1rem ;
-    margin-right:4.1rem ;
+    margin-left:4rem ;
+    margin-right:4rem ;
     box-shadow: 1rem 1rem 1rem grey;
     background-color: rgba(224, 224, 224, 0.386);
     padding-top: 2.5rem;
